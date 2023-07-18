@@ -16,29 +16,35 @@
   "profile": {
     "name": "typicode"
   },
-  "books": [
+  "doctors": [
+    {
+      "id": 101,
+      "name": "Dr. Chandnani Sonia",
+      "Specialization":"Gynecologist",
+      "Degree": "MBBS, MD"
+
+    },
     {
       "id": 102,
-      "name": "tbc",
-      "price": 1234
+      "name": "Dr. Desai Prashant",
+      "Specialization":"ENT Surgeon",
+      "Degree": "MBBS"
+
     },
     {
       "id": 103,
-      "name": "abc",
-      "price": 234
+      "name": "Dr. Rupareliya Ravi",
+      "Specialization":"Physician (MD Medicine)",
+      "Degree": "MBBS, MD (Medicine)"
+
     },
     {
       "id": 104,
-      "name": "abc",
-      "price": 234
-    },
-    {
-      "id": 105
-    },
-    {
-      "id": 106,
-      "name": "ytu",
-      "price": 234
+      "name": "Dr. Rashiniha Virendra",
+      "Specialization":"AYUSH Doctor",
+      "Degree": "BEMS"
+
     }
+    
   ]
 }
